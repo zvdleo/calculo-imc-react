@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.magreza {
+    color: blue;
+}
+
+.sobrepeso {
+    color: orange;
+}
+
+.obesidade {
+    color: red;
+}
+
+.obesidade-grave {
+    color: purple;
+}
+
